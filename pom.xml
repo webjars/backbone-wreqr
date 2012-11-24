@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>backbone-wreqr</artifactId>
-    <version>0.0.0-SNAPSHOT</version>
+    <version>0.0.0</version>
     <name>Backbone.Wreqr</name>
     <description>WebJar for Backbone.Wreqr</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/backbone-wreqr</url>
         <connection>scm:git:https://github.com/webjars/backbone-wreqr.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/backbone-wreqr.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>backbone-wreqr-0.0.0</tag>
     </scm>
 
     <developers>
